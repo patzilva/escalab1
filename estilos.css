@@ -1,7 +1,7 @@
 
 /* Llamada por nombre de etiqueta */
 h1 {
-    color: brown;
+    color: blue;
     background-color: darkkhaki;
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -17,7 +17,7 @@ h1 {
 
 /* Llamada por ID */
 #textobold {
-    color: #DDDDDD;
+    color: salmon;
     background-color: #125D98;
     font-size: 25px;
     font-family: fantasy;
