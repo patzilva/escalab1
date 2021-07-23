@@ -1,0 +1,35 @@
+
+/* Llamada por nombre de etiqueta */
+h1 {
+    color: brown;
+    background-color: darkkhaki;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Llamada por clase */
+.parrafo {
+    color: #FFD523;
+    background-color: #2C2E43;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+/* Llamada por ID */
+#textobold {
+    color: #DDDDDD;
+    background-color: #125D98;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+
+
+/* llamada al estilo por pseudoclase */
+p:nth-child(odd) {
+    background-color: #FFD523;
+}
+
+p:nth-child(even) {
+    background-color: teal;
+}
